@@ -1,0 +1,19 @@
+Project:  Superstore Marketing Campaign Dashboard.
+
+Object:  This is a superstore marketing camping dataset. we want to analyze giving  positive feedbacks customer also want to identify which affects on customers response.
+
+Problem Statement:
+
+1.  We Shown KPI'S visuals Average Customer Age, Average Spending per customer, Total Revenue from Purchases, Number of high-value customer and added a Year, High Value Customer, Number of days Purchase Slice that you can see specific data based on that filters.
+
+2. We shown here Customer Age Distribution.
+
+3. We shown here total spending by product categories.
+
+4. We shown here Purchase Channel Performance.
+
+5. We shown here Customer Engagement trends over time.
+
+6. We shown here total revenue by high-value customer segment.
+
+7. We shown here factors influencing positive response.
